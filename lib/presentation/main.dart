@@ -4,7 +4,7 @@ import 'package:chuck_norris_jokes/presentation/main_screen.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:get_it/get_it.dart';
+
 
 
 Future<void> main() async {
